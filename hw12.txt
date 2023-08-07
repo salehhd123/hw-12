@@ -41,18 +41,8 @@ We do not know which one will print first between message 1 and 3 but message 2 
 5)
 
 
-Hey from message1
-Hey from message3
-hey from message2
-hey from controller 
-
-
-or 
-
 her from message3
 hey from message2
 hey from controller 
 her from message1
 
-
-We do not know which one will print first between message 1 and 3 but message 3 will print last after message 2 after from controller after message 1
